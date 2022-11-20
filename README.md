@@ -1,7 +1,7 @@
 # ActionFilterAttribute
 Using Custom ActionFilter Attribute
 
-This project developed Asp.Net Core Wep Api.
+This project was developed with Asp.Net Core Wep Api.
 There are two custom ActionFilter.
 
 
